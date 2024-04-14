@@ -1,4 +1,5 @@
 print("Hello World")
 print("Hello Git")
 print("Hello Orange")
-i = input(int("enter a number:"))
+i = int(input("enter a number:"))
+z = input()
